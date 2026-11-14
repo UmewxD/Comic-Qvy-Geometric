@@ -1,0 +1,38 @@
+Comic Qvy - Proprietary License
+
+Copyright ©️ 2026 Umew. All rights reserved.
+
+Edition: Geometric
+Creator / Designer: Umew
+Copyright Holder: Umew
+License Name: Comic Qvy Proprietary Font License
+Abbreviation: CQ-PFL
+Distribution: Public Github Repository
+
+
+
+1 . Ownership & Intellectual Property
+
+Comic Qvy - Geometric , including its font files , designs , glyphs , documentation , and associated materials , is proprietary intellectual property owned by Umew . 
+
+All applicable rights are reserved by the copyright holder . 
+
+
+
+2 . License & Permissions 
+
+Use of Comic Qvy is governed by this End User License Agreement . 
+
+No permission is granted to reproduce , redistribute , modify , resell , sublicense , or commercially use the font files without prior written authorization from the copyright holder . 
+
+
+
+3 . Distribution
+
+Comic Qvy may be published through a public GitHub repository .
+
+Public availability does not mean the font is open-source or that unrestricted usage rights are granted .
+
+
+
+4 . Copyright Notice 
